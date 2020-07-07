@@ -1,0 +1,10 @@
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\bin\Debug\GuiCalculator.exe.config
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\bin\Debug\GuiCalculator.exe
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\bin\Debug\GuiCalculator.pdb
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.csprojAssemblyReference.cache
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.Form1.resources
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.Properties.Resources.resources
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.csproj.GenerateResource.cache
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.exe
+C:\Users\payme\source\repos\GuiCalculator\GuiCalculator\obj\Debug\GuiCalculator.pdb
